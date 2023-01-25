@@ -1,0 +1,20 @@
+{
+  "name": "weekfour",
+  "version": "1.0.0",
+  "description": "Fullstack week4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IVLuke/weekFour.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IVLuke/weekFour/issues"
+  },
+  "homepage": "https://github.com/IVLuke/weekFour#readme"
+}
